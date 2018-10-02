@@ -10,8 +10,6 @@ I also talked to Ada and will be working on rewriting the core scheduling functi
 
 ## Anything Blocking?
 
-Data 
+Data structures homework, exams, and being busy in general.
 
 ## Notes
-
-> This is an optional section for any sort of information that does not fall under any of the other categories.
