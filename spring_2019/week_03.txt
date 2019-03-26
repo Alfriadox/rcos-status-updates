@@ -1,0 +1,12 @@
+## Last Week's Accomplishments
+
+Added documentation and comments to scheduler crate and published crate docs to GitHub pages.
+
+## This Week's Plan
+
+Make a webservice crate and integrate with shceduler crate. 
+Perhaps write some unit tests.
+
+## Anything Blocking?
+
+I need to actually learn what a REST API is.
