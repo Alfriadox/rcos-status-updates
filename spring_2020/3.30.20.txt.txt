@@ -1,0 +1,8 @@
+This week, I worked on transitioning the group online due to COVID-19.
+I also Committed and merged a bunch of features (Conditional parser, skeleton code for Block parser, expression parsing) in PR #30. 
+I also reviewed and merged several other branches from team members.
+
+Next week I intend to work on and merge multiline comment parsing, pattern parsing, and parts of Binary operator parsing.
+
+Possible roadblock include the difficulty of parsing binary expressions and things like that, and whether to use a precedence climbing
+algorithm or a shunting yard algorithm.
