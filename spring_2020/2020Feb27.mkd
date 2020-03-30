@@ -1,0 +1,14 @@
+## Last week's accomplishments
+
+Binary expression parsing turns out to be harder than originally imagined,
+so I spent a lot of time last reworking and replanning the Binary expression parser.
+I also wrote and merged in a useful function for running a parser and getting the
+input it consumed. I worked this week on refactoring existing code to use this
+function.
+
+## Goals for this week
+Finish and merge in Binary expression, Conditional, and possibly Type expression
+parsers.
+
+## Any blockers?
+None
